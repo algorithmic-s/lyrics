@@ -5,9 +5,9 @@
           DESCRIPTION:
 
 * Displayed UI with correct song/artist input
-Fetch songs/artists and put in HTML DOM
-Add next/previous pages
-Add 'get lyrics' functionality and display in DOM
+* Fetch songs/artists and put in HTML DOM
+* Add next/previous pages
+* Add 'get lyrics' functionality and display in DOM
 
 
         learned: 
