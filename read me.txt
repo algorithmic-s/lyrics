@@ -1,0 +1,10 @@
+
+I decided to delve into Plain Javascript, even though I got excited at the 
+prospect of using libraries like React.js or Angular to make it easier to develop  
+applications, because of the advice i received online:
+
+"Learning the language first without the fancy frameworks builds character"
+
+"If you don't understand the basics, you cannot use a tool efficiently'
+
+
